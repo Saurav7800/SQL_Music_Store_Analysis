@@ -21,4 +21,4 @@ This SQL project aims to analyze data from an online music store database. By qu
 
 ## Database Schema
 
-![Database Schema](SQL_Music_Store_Analysis/schema_diagram.png)
+![Database Schema](schema_diagram.png)
