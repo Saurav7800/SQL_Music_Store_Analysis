@@ -15,10 +15,10 @@ This SQL project aims to analyze data from an online music store database. By qu
 - **Database Management System**: PostgreSQL
 - **Database Administration Tool**: pgAdmin4
 
-## Acknowledgements
-
-- Special thanks to [Rishabh Mishra](https://www.youtube.com/watch?v=VFIuIjswMKM&t=11s) for providing valuable insights and guidance through their YouTube channel.
-
 ## Database Schema
 
 ![Database Schema](schema_diagram.png)
+
+## Acknowledgements
+
+- Special thanks to [Rishabh Mishra](https://www.youtube.com/watch?v=VFIuIjswMKM&t=11s) for providing valuable insights and guidance through their YouTube channel.
