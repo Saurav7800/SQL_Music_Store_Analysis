@@ -19,6 +19,4 @@ This SQL project aims to analyze data from an online music store database. By qu
 
 ![Database Schema](schema_diagram.png)
 
-## Acknowledgements
-
-- Special thanks to [Rishabh Mishra](https://www.youtube.com/watch?v=VFIuIjswMKM&t=11s) for providing valuable insights and guidance through his YouTube channel.
+Happy Querying!
